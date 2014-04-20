@@ -1,6 +1,6 @@
 {
   "name": "dv-curl",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "author" : "Anton Vlasov <druidvav@gmail.com>, Jiang Miao <jiangfriend@gmail.com>",
   "description": "node wrapper for multi curl, fully implemented.",
   "keywords" : ["node-curl", "curl", "multi-curl", "mcurl"],
