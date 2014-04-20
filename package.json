@@ -1,13 +1,13 @@
 {
-  "name": "node-curl",
-  "version": "0.3.2",
-  "author" : "Jiang Miao <jiangfriend@gmail.com>",
+  "name": "dv-curl",
+  "version": "0.3.3",
+  "author" : "Anton Vlasov <druidvav@gmail.com>, Jiang Miao <jiangfriend@gmail.com>",
   "description": "node wrapper for multi curl, fully implemented.",
   "keywords" : ["node-curl", "curl", "multi-curl", "mcurl"],
-  "homepage": "http://github.com/jiangmiao/node-curl",
+  "homepage": "http://github.com/druidvav/node-curl",
   "repository" : {
     "type" : "git",
-    "url" : "git://github.com/jiangmiao/node-curl.git"
+    "url" : "git://github.com/druidvav/node-curl.git"
   },
   "main" : "./lib",
   "scripts" : {
