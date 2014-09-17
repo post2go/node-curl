@@ -1,13 +1,13 @@
 {
-  "name": "dv-curl",
+  "name": "post2go-curl",
   "version": "0.3.5",
-  "author" : "Anton Vlasov <druidvav@gmail.com>, Jiang Miao <jiangfriend@gmail.com>",
+  "author" : "Jiang Miao <jiangfriend@gmail.com>",
   "description": "node wrapper for multi curl, fully implemented.",
   "keywords" : ["node-curl", "curl", "multi-curl", "mcurl"],
-  "homepage": "http://github.com/parceldroid/node-curl",
+  "homepage": "http://github.com/post2go/node-curl",
   "repository" : {
     "type" : "git",
-    "url" : "git://github.com/parceldroid/node-curl.git"
+    "url" : "git://github.com/post2go/node-curl.git"
   },
   "main" : "./lib",
   "scripts" : {
